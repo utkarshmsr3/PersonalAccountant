@@ -24,3 +24,4 @@ It is a Web based Java project related to personal accounting using servlet, jsp
 -Change maximum no. of connections required in "maxconnections" field<br>
 -Add "team-img-1.jpg" (your image) file in "images" folder:<br>
  https://github.com/utkarshmsr3/PersonalAccountant/tree/master/Personal%20Accountant/WebContent/images<br>
+-IMPORTANT: Refract and rename the project "Personal Accountant" to "MyProject"
